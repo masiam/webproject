@@ -1,0 +1,77 @@
+body{
+    background-color: rgba(226, 226, 226, 0.975);
+    font-family: 'Quicksand', sans-serif;
+}
+header{
+    background-color: rgb(69, 69, 79);
+    height: 150px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position:absolute;
+}
+header>section{
+    width: 657px;
+    height: 120px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    padding: 6px;
+    border-radius: 10px ;
+}
+header>span{
+    padding: 2px;
+}
+header>h2{
+    color: white;
+    text-align: center;
+    position: relative;
+    top:35px;
+}
+hr{
+    height: 0px;
+    background-color: blue;
+    width: 97%; 
+}
+.tec{
+    display: inline;
+    font-weight: bold;
+}
+.detail{
+    position: relative;
+    top: 280px;
+    background-color: white;
+    width: 55%;
+    margin: auto;
+    border: 1px solid #7d8689f5;
+}
+#clgname{
+    color: rgb(240, 89, 48);
+    position: relative;
+    display: inline;
+    left: 85px;
+}
+.ranking{
+    display: inline-block;
+    margin-left:20px;
+    position: relative;
+    top: 10px;
+}
+b.num{
+    margin-left:40px ;
+    
+}
+ul>li{
+    display: inline-block;
+    position: relative;
+    left: 86px;
+    font-size: 12px;
+    margin-right: 24px;
+    
+}
+.listitem{
+    color: black;
+    opacity: .9;
+
+}

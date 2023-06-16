@@ -1,0 +1,111 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-image: url(datascbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: 2800px;
+}
+.head{
+    background-color:#dfdfdf ;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+h2.title{
+    color: rgb(43, 42, 42);
+    position: relative;
+    left: 50px;
+    top: -20px;
+}
+img.logo{
+    position: relative;
+    left: 80px;
+    top: 2px;
+}
+
+
+
+.ccont {
+    top: 77px;
+    position: absolute;
+    background-color: black;
+    height: 40px;
+    WIDTH: 100%;
+    left: 0px;
+    padding-top:10px ;
+    text-align: center;
+
+}
+
+div.ccont>a{
+    text-decoration: none;
+    color: white;
+    padding-left: 50px;
+}
+
+.brief {
+    width: 85%;
+    height: 160px;
+    background-color: #eadfdf;
+    margin: auto;
+    position: relative;
+    top: 120px;
+    padding: 6px;
+    border-radius: 8px;
+}
+div.tec{
+    font-weight: 1000;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    font-size: 26px;
+
+}
+
+
+hr{
+    height: 0px;
+    background-color: blue;
+    width: 97%; 
+}
+.tec{
+    display: inline;
+    font-weight: bold;
+}
+.detail{
+    position: relative;
+    top: 280px;
+    background-color: white;
+    width: 65%;
+    margin: auto;
+    border: 1px solid #7d8689f5;
+}
+#clgname{
+    color: rgb(240, 89, 48);
+    position: relative;
+    display: inline;
+    left: 85px;
+}
+.ranking{
+    display: inline-block;
+    margin-left:20px;
+    position: relative;
+    top: 10px;
+}
+b.num{
+    margin-left:40px ;
+    
+}
+ul>li{
+    display: inline-block;
+    position: relative;
+    left: 86px;
+    font-size: 12px;
+    margin-right: 24px;
+    
+}
+.listitem{
+    color: black;
+    opacity: .9;
+
+}

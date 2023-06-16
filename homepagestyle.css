@@ -1,0 +1,193 @@
+body{ 
+    font-family: 'Quicksand', sans-serif;}
+#carouselExampleControls{
+    display: flex;
+    justify-content: center;
+}
+.container-fluid{
+    display: flex;
+}
+
+.treandingcourses>img,h3{
+    float:left;
+}
+.treandingspecialization>img,h3{
+    float:left;
+}
+.exams>img,h3{
+    float:left;
+}
+.treandingcourses>img{
+    position: relative;
+    top: 8px;
+    left: 5px;
+}
+.treandingspecialization>img{
+    position: relative;
+    top: 8px;
+    left: 5px;
+}
+.exams>img{
+    position: relative;
+    top: 8px;
+    left: 5px;
+}
+.treandingcourses{
+    background-color:rgba(222 185 121 / 27%);
+    border: 2px;
+    border-color: rgb(222 185 121 / 27%);
+    border-style: solid;
+    width: 450px;
+    height: 180px;
+    border-radius: 20px;
+}
+.treandingspecialization
+{
+    background-color:rgba(191 141 58 / 27%);
+    border: 2px;
+    border-color: rgb(191 141 58 / 27%);
+    border-style: solid;
+    width: 450px;
+    height: 200px;
+    border-radius: 20px;
+}
+.exams{
+    background-color:rgba(222 185 121 / 27%);
+    border: 2px;
+    border-color: rgb(222 185 121 / 27%);
+    border-style: solid;
+    width: 450px;
+    height: 170px;
+    border-radius: 20px;
+}
+.treandingcourses>h3{
+   padding-left: 10px;
+}
+.exams>h3{
+   padding-left: 10px;
+}
+
+.treandingcourses>p{
+    padding: 6px;
+}
+.treandingspecialization>p{
+    padding: 6px;
+}
+.treandingspecialization>h3{
+    padding-left: 10px;
+}
+.container{
+    margin-top: 80px;
+    display: flex;
+    float: left;
+    margin-left:20px ;
+
+}
+.container>section{
+    margin: 2px;
+}
+.councelling>img{
+    position: relative;
+    top:40px;
+    left: 100px;
+}
+.certification{
+    display: flex;
+    float: right;
+    margin: 20px;
+    clear: left;
+}
+.examcontainer{
+    display: flex;
+    float: right;
+    margin: 20px;
+    clear: left;
+}
+section{
+    margin-left: 10px;
+}
+.exams>button{
+    margin: 2px;
+    border-radius: 20px;
+}
+.treandingspecialization>a>button{
+    margin: 2px;
+    border-radius: 20px;
+}
+.treandingcourses>a>button{
+    margin: 2px;
+    border-radius: 20px;
+}
+
+.cl{
+    display: block;
+    background-color: rgb(240 240 240 / 75%);
+    width: 100%;
+    height: 350px;
+    padding-top: 20px;
+}
+.ex{
+    display: block;
+    background-color: rgb(240 240 240 / 75%);
+    width: 100%;
+    height: 539px;
+    padding-top: 20px;
+}
+
+
+.sp{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 305px;
+    margin-bottom: 120px;
+}
+footer{
+    background-color: rgba(12, 12, 12, 0.925);
+    color: white;
+    height: 50px;
+    font-size: 10px;
+    padding: 4px ;
+    
+}
+footer>div>ul>li{
+    list-style: none;
+    float: left;
+margin-left: 8px;
+}
+footer>div>span{
+    float: right;
+}
+
+figcaption{
+    text-align: center;
+    position: relative;
+    top: -96px;
+    font-weight: 900;
+    font-size: 34px;
+    color: white;
+}
+
+#carouselExampleInterval
+{
+    margin-top:0px;
+}
+
+#navi{
+
+height: 74px;
+    padding-top: 34px;
+}
+
+li>h2{
+    padding:0 20px;
+}
+
+li>img{
+    position: relative;
+    top:-18px;
+}
+button.btn.btn-success {
+    position: relative;
+    top: -19px;
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 50 40">
+    <defs>
+        <style>
+            .cls-1{fill:#3a4d95}.cls-2{fill:#02a569}
+        </style>
+    </defs>
+    <path d="M36.25 2.5H27.5V1.25A1.25 1.25 0 0 0 26.25 0h-15A1.25 1.25 0 0 0 10 1.25V2.5H1.25A1.25 1.25 0 0 0 0 3.75v35A1.25 1.25 0 0 0 1.25 40h35a1.25 1.25 0 0 0 1.25-1.25v-35a1.25 1.25 0 0 0-1.25-1.25zm-24.75-1H26V5H11.5zm24.5 37H1.5V4H10v1.25a1.25 1.25 0 0 0 1.25 1.25h15a1.25 1.25 0 0 0 1.25-1.25V4H36zM46.25 5a3.75 3.75 0 0 0-3.75 3.75v22a1.35 1.35 0 0 0 .13.56l2.5 5a1.25 1.25 0 0 0 1.68.56 1.26 1.26 0 0 0 .56-.56l2.5-5a1.35 1.35 0 0 0 .13-.56v-22A3.75 3.75 0 0 0 46.25 5zm2.25 4v4.5H44V9a2.25 2.25 0 0 1 2.25-2.25A2.25 2.25 0 0 1 48.5 9zm-2.25 26L44 31.45V15h4.5v16.45z" class="cls-1"/>
+    <rect width="6" height="1.5" x="7" y="12.75" class="cls-2" rx=".75"/>
+    <rect width="15" height="1.5" x="16" y="12.75" class="cls-2" rx=".75"/>
+    <rect width="6" height="1.5" x="7" y="18.75" class="cls-2" rx=".75"/>
+    <rect width="15" height="1.5" x="16" y="18.75" class="cls-2" rx=".75"/>
+    <rect width="6" height="1.5" x="7" y="24.75" class="cls-2" rx=".75"/>
+    <rect width="15" height="1.5" x="16" y="24.75" class="cls-2" rx=".75"/>
+    <rect width="6" height="1.5" x="7" y="31.75" class="cls-2" rx=".75"/>
+    <rect width="15" height="1.5" x="16" y="31.75" class="cls-2" rx=".75"/>
+</svg>
